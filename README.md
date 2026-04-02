@@ -1,7 +1,5 @@
 # 🛡️ SpectraEYE - Comprehensive Monitoring Platform
 
-![SpectraEYE Banner](/public/images/logo.png)
-
 > **SpectraEYE** is a complete platform for **monitoring**, **incident management**, and **operational communication** (SaaS + On-Premise). It centralizes critical job monitoring, incident escalation, and team collaboration.
 
 ---
