@@ -196,4 +196,6 @@ Distributed under the Proprietary License. See `LICENSE` for more information.
 
 ---
 
-**Built with ❤️ by the SpectraEYE Team**
+<p align="center">
+  **Built with ❤️ by the SpectraEYE Team**
+</p>
