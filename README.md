@@ -173,14 +173,7 @@ SpectraEYE/
 ## ⚡ Installation & Setup
 
 1.  **Requirements**: PHP 8.x, MySQL 8.x, Composer.
-2.  **Install Dependencies**:
-    ```bash
-    composer install
-    ```
-3.  **Database**: Import `sql_for_databse_sql/spectra_export.sql`.
-4.  **Configuration**:
-    *   Rename config examples and update `config/database.php`, `config/smtp.php`.
-5.  **Cron Jobs**: Set up crontabs for scripts in `src/jobs/`.
+2.  **Cron Jobs**: Set up crontabs for scripts in `src/jobs/`.
 
 ---
 
