@@ -97,6 +97,6 @@ Open **Help** after signing in for numbered chapters, full-text search, and inte
 
 Use the tenant REST API to work with monitors, heartbeats, incidents, status pages, and on-call schedules. Users with API documentation access can browse operation parameters, request examples, responses, and authentication requirements. Organisation owners can create and revoke tokens for approved automation. [Open the API documentation](https://eye.spectraeye.app/api/docs)
 
-<p align="center">
+## <p align="center">
   <strong>Built with ❤️ by the SpectraEYE Team</strong>
 </p>
